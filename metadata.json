@@ -1,0 +1,6 @@
+{
+  "name": "Score Calculator - Free Online Exam Score Calculators",
+  "description": "Score Calculator offers simple tools to estimate AP and GRE scores, attendance, and marks percentages with clear results for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
